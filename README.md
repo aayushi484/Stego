@@ -14,10 +14,6 @@ A simple Python-based tool that allows users to hide and extract secret messages
 🚀 How to Use
 1️⃣ Run the Tool
 Execute the script in your terminal:
-
-sh
-Copy
-Edit
 python stego.py
 2️⃣ Hide a Message
 Click "Choose Image" to select a PNG, JPG, or JPEG file
