@@ -1,4 +1,4 @@
-# Stego
+# Steganograpy
 Steganography Tool (GUI-Based)
 🔹 Overview
 A simple Python-based tool that allows users to hide and extract secret messages from images using Least Significant Bit (LSB) steganography. Built with Tkinter, it provides an easy-to-use graphical interface.
